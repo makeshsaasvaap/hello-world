@@ -1,3 +1,9 @@
 # hello-world
-firstgithubproject
-Hi this is my first github project please consider me
+// My First Program
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+
